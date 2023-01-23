@@ -1,1 +1,5 @@
-print("hola mundo")
+
+
+class persona():
+    
+    print("hola mundo")
